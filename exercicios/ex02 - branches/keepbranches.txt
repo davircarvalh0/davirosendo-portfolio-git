@@ -1,0 +1,7 @@
+Branches utilizadas:
+    feat/logica-idade
+    fix/realidade-a
+    fix/realidade-b
+    fix/status-aprovado
+    * main
+    refactor/nome-variaveis
