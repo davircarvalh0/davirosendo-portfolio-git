@@ -1,6 +1,7 @@
 print("Qual é o seu nome?")
 user = input()
 passed = False
+#Loop que define se o usuário passa do login ou não
 while passed == False:
     if len(user) > 0:
         print(f"Hello, {user}!")
