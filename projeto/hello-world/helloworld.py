@@ -1,3 +1,4 @@
+print("Qual é o seu nome?")
 usuario = input()
 passed = False
 while passed == False:
@@ -7,3 +8,14 @@ while passed == False:
     else:
         print("Nome inválido, tente novamente")
         usuario = input()
+    
+if passed == True:
+    print("Quantos anos você tem?")
+    idade = int(input())
+    if idade < 18:
+        print("Você não está habilitado a utilizar esta parte do sistema")
+    else:
+        print()
+
+#Teste
+    print(f"Sua idade é: {idade}")
