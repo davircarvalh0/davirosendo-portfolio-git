@@ -16,3 +16,6 @@ if passed == True:
         print("Você não está habilitado a utilizar esta parte do sistema")
     else:
         print()
+
+#Teste
+    print(f"Sua idade é: {idade}")
