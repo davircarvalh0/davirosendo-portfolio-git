@@ -1,5 +1,3 @@
-# Reflexão Pessoal: Desafios e Aprendizados com Git
-
 ## O que foi difícil
 A adaptação ao Git exigiu bastante tentativa e erro, tive que entender como o Git absorve os arquivos em constrate a como o Visual Studio Code os exibe. O primeiro obstáculo surgiu na criação da estrutura de pastas do repositório. Ao criar as pastas necessárias para a atividade proposta, o VS Code exibiu as pastas de forma compactada, o que me fez acreditar que a estrutura estava errada. Descobri, após pesquisa, que o Git ignora pastas vazias e eu precisei criar arquivos `.keep` para forçar o rastreamento. Esse foi o primeiro estranhamento sobre a utilização da ferramenta.
 
